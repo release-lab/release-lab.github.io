@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "ant-design-vue": "3.2.9",
-    "marked": "4.0.17",
+    "marked": "4.0.18",
     "vue": "3.2.37"
   },
   "devDependencies": {
